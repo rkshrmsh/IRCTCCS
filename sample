@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std
-int main(vodi)
+int main(void)
 {
 cout<<"New sample"<<endl;
 return 0;
